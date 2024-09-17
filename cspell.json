@@ -10,7 +10,9 @@
     "pypi",
     "pytest",
     "systemx",
-    "__pycache__"
+    "__pycache__",
+    "jsonify",
+    "connexion"
   ],
   "flagWords": [],
   "ignorePaths": [
